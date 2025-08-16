@@ -8,6 +8,8 @@ description = "Unofficial thesis style for the University of St. Cyril and Metho
 repository = "https://github.com/nikkelo/unofficial-ukim-thesis"
 keywords = ["UKIM", "Skopje", "Cyril and Methodius", "thesis"]
 categories = ["thesis"]
+disciplines = ["chemistry","biology","physics"]
+exclude = ["example"]
 
 [template]
 path = "template"
