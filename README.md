@@ -12,22 +12,22 @@ Primarily appropriate for undergraduate degrees, but probably applicable to high
 
 Your most important parts of the template are the ones placed at the top of the examples: 
 
-- **title-mk: "Рамански спектри на кофеин"** - refers to the title in Macedonian. 
-- **title-en: "Raman spectra of caffeine"** - refers to the title in English
-- **institution: "Институт за хемија, Природно-математички факултет, Универзитет „Св. Кирил и Методиј“ Скопје "** - the institution (department, faculty, university)
-- **logo: image("logo.png", width: 30%)** - the image on the cover. By default, this is the UKIM logo, but you can easily change this by 
-- **author: "Студент Студентовски"**
-- **year: "2025"**
-- **location: "Скопје"**
-- **mentor: "Ментор: Проф. д-р Ментор"** - your mentor
+- **title-mk** - refers to the title in Macedonian. 
+- **title-en** - refers to the title in English
+- **institution** - the institution (department, faculty, university)
+- **logo** - the image on the cover. By default, this is the UKIM logo, but you can easily change this by 
+- **author** - your name
+- **year** - year completed
+- **location** - location of the department
+- **mentor** - your mentor
 - **committee** - the three members of your committee including your mentor                                                
-- **defense-date: "Датум на одбраната: 01.01.2025"** - optional defense date 
-- **promotion-date: "Датум на промоција: 01.01.2025"** - optional promotion date
+- **defense-date** - optional defense date 
+- **promotion-date** - optional promotion date
 - **abstract-mk** - abstract in Macedonian
 - **keywords-mk** - keywords in Macedonian
 - **abstract-en** - abstract in English
 - **keywords-en** - keywords in English
-- **dedication: none** - optional dedication to family members, students, advisors...
+- **dedication** - optional dedication to family members, students, advisors...
 
 # Bibliography / Користена литература
 At the bottom of the main page you can add a bibliography section:
