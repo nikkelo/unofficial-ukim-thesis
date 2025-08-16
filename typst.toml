@@ -10,6 +10,6 @@ keywords = ["UKIM", "Skopje", "Cyril and Methodius", "thesis"]
 categories = ["thesis"]
 
 [template]
-path = "templates"
+path = "template"
 entrypoint = "main.typ"
 thumbnail = "img/thumbnail.png"
