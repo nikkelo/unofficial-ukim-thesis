@@ -16,9 +16,9 @@ Your most important parts of the template are the ones placed at the top of the 
 - **title-en: "Raman spectra of caffeine"** - refers to the title in English
 - **institution: "Институт за хемија, Природно-математички факултет, Универзитет „Св. Кирил и Методиј“ Скопје "** - the institution (department, faculty, university)
 - **logo: image("logo.png", width: 30%)** - the image on the cover. By default, this is the UKIM logo, but you can easily change this by 
-- **author: "Студент Студентовски"**
-- **year: "2025"**
-- **location: "Скопје"**
+- **author: "Студент Студентовски"** - your name
+- **year: "2025"** - year 
+- **location: "Скопје"** - location of the department
 - **mentor: "Ментор: Проф. д-р Ментор"** - your mentor
 - **committee** - the three members of your committee including your mentor                                                
 - **defense-date: "Датум на одбраната: 01.01.2025"** - optional defense date 
