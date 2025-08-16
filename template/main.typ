@@ -1,4 +1,4 @@
-#import "uthesis.typ": *
+#import "@preview/unofficial-ukim-thesis:0.1.0": uthesis
 
 #show: uthesis.with(
   title-mk: "Рамански спектри на кофеин",
