@@ -50,5 +50,3 @@
 #conclusion()
 
 #pagebreak()
-
-#bibliography("biblio.yml", title: "Користена литература")
